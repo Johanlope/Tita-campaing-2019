@@ -1,0 +1,12 @@
+ img{
+     width: 450px;
+     border-radius:10px ;
+     margin:90px;
+ }
+ .pink{
+     background: pink;
+ }
+ body{
+     text-align: center;
+     background-color: yellow;
+ }
